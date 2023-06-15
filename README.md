@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manishchaurasia.netlify.app/)
 <h1 align="center">Hi 👋, I'm Manish Chaurasia</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishchaurasia07&label=Profile%20views&color=0e75b6&style=flat" alt="manishchaurasia07" /> </p>
 
