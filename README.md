@@ -1,4 +1,5 @@
 ![logo](https://github.com/ManishChaurasia07/ManishChaurasia07/blob/main/gallery.gif)
+<img align="center" alt="banner" src="https://github.com/ManishChaurasia07/ManishChaurasia07/blob/main/gallery.gif"/>
 <h1 align="center">Hi 👋, I'm Manish Chaurasia</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
